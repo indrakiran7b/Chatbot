@@ -34,6 +34,12 @@ npm install
 npm run dev
 ```
 
+## Local URLs
+
+- **Frontend:** http://localhost:5173
+- **Backend docs:** http://localhost:8000/docs
+
+
 ## Notes
 
 - If you don’t set `OPENAI_API_KEY`, the chat returns a local `(stub)` echo so you can demo the UI end-to-end.
