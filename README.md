@@ -1,4 +1,4 @@
-# Minimal Chatbot Platform (Fixed)
+# Minimal Chatbot Platform 
 
 Implements:
 - JWT auth (register/login)
